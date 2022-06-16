@@ -8,7 +8,7 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Techcombank
-    url: https://techcombank.com.vn
+    url: https://www.techcombank.com.vn
   - name: Techcombank BB
     url: https://business.techcombank.com.vn
 
