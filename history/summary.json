@@ -4,18 +4,19 @@
     "url": "https://business.techcombank.com.vn",
     "icon": "https://favicons.githubusercontent.com/business.techcombank.com.vn",
     "slug": "techcombank-bb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 2194,
-    "timeDay": 2079,
-    "timeWeek": 2184,
-    "timeMonth": 2230,
-    "timeYear": 2194,
+    "time": 2174,
+    "timeDay": 1667,
+    "timeWeek": 2068,
+    "timeMonth": 2199,
+    "timeYear": 2174,
     "dailyMinutesDown": {
+      "2022-07-23": 0,
       "2022-06-18": 67
     }
   }
